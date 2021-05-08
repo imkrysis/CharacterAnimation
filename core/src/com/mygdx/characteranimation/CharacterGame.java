@@ -18,7 +18,5 @@ public class CharacterGame extends Game {
         font = new BitmapFont();
 
         this.setScreen(new MenuScreen(this));
-
     }
-
 }
